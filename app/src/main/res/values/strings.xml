@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">DevQuest</string>
+
+    <string name="welcome_title">Welcome to DevQuest!</string>
+    <string name="welcome_subtitle">Your Programming Quiz \nAdventure Begin Here.</string>
+    <string name="welcome_tagline">Test your skills. Learn at your own pace.\nLevel up as a future developer.</string>
+    <string name="continue_label">Continue</string>
+    <string name="cd_illustration">DevQuest programming illustration</string>
+
+    <string name="login">Login</string>
+    <string name="cd_login_button">Log in to your account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="signup_prompt">Not yet registered? Sign Up</string>
+
+    <string name="hint_create_password">Create a Password</string>
+    <string name="hint_signup_confirm">Confirm Password</string>
+    <string name="login_prompt">Already have an account? Login</string>
+    <string name="cd_signup_button">Create your account</string>
+
+    <string name="dialog_forgot_title">Forgot Password</string>
+    <string name="dialog_forgot_desc">Enter your email address:</string>
+    <string name="hint_enter_email">Enter your email</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+
+    <string name="home_subtitle">Ready to level up your skills?</string>
+    <string name="cd_logout">Logout</string>
+    <string name="home_ready_title">Ready to Code?</string>
+    <string name="home_ready_desc">Test your skills in Java, JavaScript, C#, and C++ with 15 timed questions.</string>
+    <string name="choose_language">Choose Your Language</string>
+    <string name="lang_cpp">C++</string>
+    <string name="lang_java">Java</string>
+    <string name="lang_csharp">C#</string>
+    <string name="lang_javascript">JavaScript</string>
+    <string name="lang_js_short">JS</string>
+
+    <string name="select_mode">Select Mode</string>
+    <string name="sets_intro">Choose how you want to take the quiz. Pick a mode below and test your knowledge in a different way.</string>
+    <string name="mode_multiple">Multiple Choices</string>
+    <string name="mode_multiple_desc">Choose the correct answer.</string>
+    <string name="mode_identification">Identification</string>
+    <string name="mode_identification_desc">Type the correct term.</string>
+    <string name="mode_fill_blank">Fill in the Blank</string>
+    <string name="mode_fill_blank_desc">Complete the missing word or code.</string>
+    <string name="cd_open">Open</string>
+
+    <string name="cd_trophy">Trophy</string>
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="quiz_completed_subtitle">Great job! You finished the quiz.</string>
+    <string name="label_score">Score</string>
+    <string name="label_time_taken">Time Taken</string>
+    <string name="retake_quiz">Retake Quiz</string>
+
+    <string name="cd_avatar">Avatar</string>
+    <string name="log_out">Log Out</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="cd_profile_photo">Profile photo</string>
+    <string name="change_photo">Change photo</string>
+    <string name="label_full_name">Full Name</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_redirect">Already have an account? Log in</string>
+    <string name="fraction_format">%1$d/%2$d</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="type_answer_in_blank">Type your answer in the blank.</string>
+    <string name="type_answer_first">Type your answer first</string>
+    <string name="correct_answer_format">Correct answer: %1$s</string>
+    <string name="no_hint">No hint for this question</string>
+    <string name="greeting_default">Hi!</string>
+    <string name="greeting_name">Hi, %1$s!</string>
+    <string name="progress_percentage">%1$d%%</string>
+    <string name="cd_back">Back</string>
+    <string name="save">Save</string>
+    <string name="label_email">Email</string>
+
+    <string name="change_password">Change Password</string>
+    <string name="label_current_password">Current Password</string>
+    <string name="hint_current_password">Current password</string>
+    <string name="label_new_password">New Password</string>
+    <string name="hint_new_password">At least 6 characters</string>
+    <string name="label_confirm_password">Confirm New Password</string>
+    <string name="hint_confirm_password">Repeat new password</string>
+    <string name="hint_enter_full_name">Enter your full name</string>
+    <string name="cd_save_password">Save new password</string>
+
+    <string name="help_support">Help &amp; Support</string>
+    <string name="faq_title">Frequently Asked Questions</string>
+    <string name="contact_support">Contact Support</string>
+
+    <string name="cd_logo">DevQuest logo</string>
+
+    <string name="cd_timer">Timer</string>
+    <string name="seconds_suffix">s</string>
+    <string name="hint_icon">💡</string>
+    <string name="hint_label">Hint</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="hint_type_answer">Type your answer</string>
+
+    <plurals name="hints_left">
+        <item quantity="one">%d hint left</item>
+        <item quantity="other">%d hints left</item>
+    </plurals>
+
+    <string name="hint_title">💡 Hint</string>
+    <string name="got_it">Got it</string>
+
+    <string name="my_progress">My Progress</string>
+    <string name="language_progress">Language Progress</string>
+    <string name="label_quizzes">Quizzes</string>
+    <string name="label_correct">Correct</string>
+    <string name="label_streak">Streak</string>
+
+    <string name="cd_time_out">Time out</string>
+    <string name="times_up_title">Oops, Time\'s Up!</string>
+    <string name="times_up_desc">You ran out of time. Let\'s move on to the next question.</string>
+    <string name="next_question">Next Question</string>
+</resources>

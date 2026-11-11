@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dq_brand">#1F3A93</color>
+    <color name="dq_brand_dark">#162B73</color>
+    <color name="dq_bg">#EEF2FB</color>
+    <color name="dq_text">#1A1A2E</color>
+    <color name="dq_muted">#6B7280</color>
+    <color name="dq_track">#DFE6F6</color>
+    <color name="dq_line">#E8ECF6</color>
+    <color name="dq_danger">#E53935</color>
+    <color name="dq_white">#FFFFFF</color>
+</resources>

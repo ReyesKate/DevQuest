@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rich_black">#00072D</color>
+    <color name="dark_green">#051650</color>
+    <color name="bangladesh_green">#0A2472</color>
+    <color name="caribbean_green">#123499</color>
+    <color name="devquest_primary">#4E58C7</color>
+    <color name="devquest_secondary">#051650</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="backg">#4E58C7</color>
+    <color name="category">#e8e4fa</color>
+    <color name="click">#ff8fa3</color>
+    <color name="splash_bg">#FFF6F9FF</color>
+</resources>

@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.DevQuest" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary color. -->
+        <item name="colorPrimary">@color/backg</item>
+        <item name="colorPrimaryVariant">@color/devquest_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary color -->
+        <item name="colorSecondary">@color/devquest_secondary</item>
+        <item name="colorSecondaryVariant">@color/bangladesh_green</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/backg</item>
+        <!-- Navigation Bar -->
+        <item name="android:navigationBarColor">@color/rich_black</item>
+        <item name="android:dialogTheme">@style/RoundedDialog</item>
+
+        <item name="android:windowBackground">#f3f6fd</item>
+    </style>
+
+
+    <style name="Theme.DevQuest" parent="Base.Theme.DevQuest" />
+
+    <style name="RoundedDialog" parent="@android:style/Theme.Material.Dialog">
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

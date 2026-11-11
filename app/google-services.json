@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297582174452",
+    "project_id": "devquest-b99a5",
+    "storage_bucket": "devquest-b99a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297582174452:android:407a227ad2d3b2b9e07ea1",
+        "android_client_info": {
+          "package_name": "com.example.devquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxE9LY_oDrqku_Jw1Mn9EhkV15mypVDSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
